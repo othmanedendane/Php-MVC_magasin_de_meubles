@@ -1,4 +1,4 @@
-# Php-MVC_magasin_d-immobilier
+# Php-MVC_magasin_de meubles
 Magasin d'immobilier avec une gestion administrative CRUD
 Affichage de produits côté client (Read)
 ![1](https://user-images.githubusercontent.com/67880193/114778869-694dad00-9d43-11eb-8e06-cf579e21c684.PNG)
